@@ -14,15 +14,7 @@ This is the official code for the paper "Learning 3D Object Spatial Relationship
 
 ## Citation
 ```bibtex
-@misc{david,
-      title={DAViD: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video Diffusion Models}, 
-      author={Hyeonwoo Kim and Sangwon Beak and Hanbyul Joo},
-      year={2025},
-      eprint={2501.08333},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2501.08333}, 
-}
+TBA
 ```
 
 <!-- ## License
