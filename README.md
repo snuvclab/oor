@@ -14,14 +14,11 @@ This is the official code for the paper "Learning 3D Object Spatial Relationship
 
 ## Citation
 ```bibtex
-@misc{oor,
+@inproceedings{oor,
       title={Learning 3D Object Spatial Relationships from Pre-trained 2D Diffusion Models}, 
-      author={Sangwon Beak and Hyeonwoo Kim and Hanbyul Joo},
-      year={2025},
-      eprint={2503.19914},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2503.19914}, 
+      author={Sangwon Baik and Hyeonwoo Kim and Hanbyul Joo},
+      booktitle = ICCV,
+      year={2025}
 }
 ```
 
